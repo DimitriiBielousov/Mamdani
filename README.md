@@ -58,8 +58,6 @@ There are 3 Membership Function for input and 1 for output.
 26. (Speed is Cepat) and (Distance is TooFar) and (Angle is Up) then (BrakeLevel is Weak)  
 27. (Speed is Cepat) and (Distance is TooFar) and (Angle is Down) then (BrakeLevel is Strong)  
 
-
-
-
 ## MORE INFORMATION
+Read **Automatic Braking System.pdf**
 Visit http://teemstudios.net or chat on whatsapp (62)857 9500 2903
