@@ -1,0 +1,30 @@
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\bin\Debug\AFSystem.exe.config
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\bin\Debug\AFSystem.exe
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\bin\Debug\AFSystem.pdb
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\bin\Debug\AForge.dll
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\bin\Debug\AForge.xml
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\obj\Debug\AFSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\obj\Debug\AFSystem.Properties.Resources.resources
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\obj\Debug\AFSystem.csproj.GenerateResource.Cache
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\obj\Debug\AFSystem.exe
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\obj\Debug\AFSystem.pdb
+C:\Users\Kuncoro Triandono M\Documents\Visual Studio 2015\Projects\AutoBreakingLevel\AFSystem\AFSystem\obj\Debug\AF_System.GUI.resources
+D:\My Work\Program\AFSystem\AFSystem\bin\Debug\AFSystem.exe.config
+D:\My Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.exe
+D:\My Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.pdb
+D:\My Work\Program\AFSystem\AFSystem\bin\Debug\AFSystem.exe
+D:\My Work\Program\AFSystem\AFSystem\bin\Debug\AFSystem.pdb
+D:\My Work\Program\AFSystem\AFSystem\bin\Debug\AForge.Fuzzy.dll
+D:\My Work\Program\AFSystem\AFSystem\bin\Debug\AForge.dll
+D:\My Work\Program\AFSystem\AFSystem\bin\Debug\AForge.Fuzzy.xml
+D:\My Work\Program\AFSystem\AFSystem\bin\Debug\AForge.xml
+D:\My Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.csprojResolveAssemblyReference.cache
+D:\My Work\Program\AFSystem\AFSystem\obj\Debug\AF_System.GUI.resources
+D:\My Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.Properties.Resources.resources
+D:\My Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.csproj.GenerateResource.Cache
+F:\Work\Program\AFSystem\AFSystem\bin\Debug\AFSystem.exe.config
+F:\Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.exe
+F:\Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.pdb
