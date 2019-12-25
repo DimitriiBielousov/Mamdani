@@ -1,30 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AForge.Fuzzy;
+using System;
 using System.Windows.Forms;
-using AForge.Fuzzy;
-using Bunifu.Framework;
 
 namespace AF_System
 {
     public partial class GUI : Form
     {
-        static Double BrakeLevel;
-        static Double distance;
-        static Double speed;
-        static Double angle;
+        private static readonly double BrakeLevel;
+        private static readonly double distance;
+        private static readonly double speed;
+        private static readonly double angle;
 
         public GUI()
         {
-
             InitializeComponent();
         }
-
 
         private void bunifuImageButton7_Click(object sender, EventArgs e)
         {
@@ -38,19 +28,18 @@ namespace AF_System
 
         private void bunifuImageButton8_Click(object sender, EventArgs e)
         {
-            this.WindowState = FormWindowState.Minimized;
+            WindowState = FormWindowState.Minimized;
         }
 
-        private void bunifuCustomLabel6_Click(object sender, EventArgs e)
-        {
+        //private void bunifuCustomLabel6_Click(object sender, EventArgs e)
+        //{
 
-        }
+        //}
 
+        //private void bunifuMaterialTextbox1_OnValueChanged(object sender, EventArgs e)
+        //{
 
-        private void bunifuMaterialTextbox1_OnValueChanged(object sender, EventArgs e)
-        {
-
-        }
+        //}
 
         private void TB_Speed_ValueChanged(object sender, EventArgs e)
         {
@@ -80,7 +69,6 @@ namespace AF_System
                 lblvalueAngle.Text = Convert.ToString(Math.Ceiling(value_min) + "°");
 
             }
-
         }
 
         private void TB_Distance_ValueChanged(object sender, EventArgs e)
@@ -113,8 +101,6 @@ namespace AF_System
 
         private void Gauge_Break_Load(object sender, EventArgs e)
         {
-
-
 
         }
 
@@ -272,7 +258,10 @@ namespace AF_System
                 lblvalueBrake.Text = Convert.ToString(Math.Ceiling(BrakeLevel));
             }
             else
+            {
                 Gauge_Break.Value = Convert.ToInt32(BrakeLevel * 10);
+            }
+
             lblvalueBrake.Text = Convert.ToString(Math.Ceiling(BrakeLevel));
 
 

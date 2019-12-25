@@ -1,0 +1,4 @@
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Release\AF_System.GUI.resources
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Release\AFSystem.Properties.Resources.resources
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Release\AFSystem.csproj.GenerateResource.cache
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Release\AFSystem.csproj.CoreCompileInputs.cache

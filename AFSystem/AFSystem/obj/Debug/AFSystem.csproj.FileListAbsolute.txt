@@ -28,3 +28,17 @@ D:\My Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.csproj.GenerateResource.
 F:\Work\Program\AFSystem\AFSystem\bin\Debug\AFSystem.exe.config
 F:\Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.exe
 F:\Work\Program\AFSystem\AFSystem\obj\Debug\AFSystem.pdb
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\bin\Debug\AFSystem.exe.config
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\bin\Debug\AFSystem.exe
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\bin\Debug\AFSystem.pdb
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\bin\Debug\AForge.dll
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\bin\Debug\AForge.Fuzzy.xml
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\bin\Debug\AForge.xml
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Debug\AFSystem.csprojAssemblyReference.cache
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Debug\AF_System.GUI.resources
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Debug\AFSystem.Properties.Resources.resources
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Debug\AFSystem.csproj.GenerateResource.cache
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Debug\AFSystem.csproj.CoreCompileInputs.cache
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Debug\AFSystem.csproj.CopyComplete
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Debug\AFSystem.exe
+D:\Education\KHNURE\Mamdani\AFSystem\AFSystem\obj\Debug\AFSystem.pdb
